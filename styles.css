@@ -763,6 +763,11 @@ img {
     color: var(--text-color-light);
 }
 
+.education__subtitle:hover {
+    font-size: 16.2px;
+    color: var(--first-color);
+}
+
 .education__calendar,
 .experience__calendar {
     font-size: var(--smaller-font-size);
@@ -821,6 +826,12 @@ img {
 .contact__subtitle {
     font-size: var(--small-font-size);
     color: var(--text-color-light);
+    transition: 0.2s;
+}
+
+.contact__subtitle:hover {
+    font-size: 16.2px;
+    color: var(--first-color);
 }
 
 .contact__form {
