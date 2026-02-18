@@ -489,7 +489,7 @@ img {
 }
 
 .about__img {
-    width: 280px;
+    width: 400px;
     border-radius: 1.5rem;
     justify-self: center;
     box-shadow: 0 4px 20px rgba(183, 75, 75, 0.3);
