@@ -612,36 +612,28 @@ img {
     animation: skillBar 2s ease-in-out;
 }
 
+.skills__c {
+    width: 80%;
+}
+
 .skills__cpp {
     width: 90%;
 }
 
 .skills__python {
-    width: 85%;
-}
-
-.skills__javascript {
-    width: 80%;
-}
-
-.skills__java {
-    width: 75%;
+    width: 90%;
 }
 
 .skills__html {
     width: 90%;
 }
 
-.skills__react {
+.skills__css {
     width: 75%;
 }
 
-.skills__node {
-    width: 70%;
-}
-
 .skills__database {
-    width: 80%;
+    width: 85%;
 }
 
 @keyframes skillBar {
